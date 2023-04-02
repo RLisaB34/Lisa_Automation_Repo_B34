@@ -1,0 +1,304 @@
+2023-03-21 13:00:04,470 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2023-03-21 15:05:50,503 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-21 16:11:30,050 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-21 16:11:51,940 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-25 14:40:50,659 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-28 06:55:56,309 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-28 06:55:56,725 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-03-28 14:44:27,999 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-28 14:44:28,503 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-03-28 15:02:23,603 [Worker-11: Creating project "Selenium_Automation_B34"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.jar
+2023-03-28 15:02:23,622 [Worker-11: Creating project "Selenium_Automation_B34"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.jar
+2023-03-28 15:02:23,634 [Worker-11: Creating project "Selenium_Automation_B34"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.jar
+2023-03-28 15:02:23,652 [Worker-11: Creating project "Selenium_Automation_B34"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.jar
+2023-03-28 15:02:23,660 [Worker-11: Creating project "Selenium_Automation_B34"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2023-03-28 15:02:23,670 [Worker-11: Creating project "Selenium_Automation_B34"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.jar
+2023-03-28 15:02:23,682 [Worker-11: Creating project "Selenium_Automation_B34"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar
+2023-03-28 15:02:23,690 [Worker-11: Creating project "Selenium_Automation_B34"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar
+2023-03-28 15:02:23,713 [Worker-11: Creating project "Selenium_Automation_B34"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.pom
+2023-03-28 15:02:23,749 [Worker-11: Creating project "Selenium_Automation_B34"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: lichu.doha.firstproject:Selenium_Automation_B34:0.0.1-SNAPSHOT @ C:\Users\rlisa\eclipse-workspace\Selenium_Automation_B34\pom.xml.
+2023-03-28 15:02:23,791 [Worker-11: Creating project "Selenium_Automation_B34"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.pom
+2023-03-28 15:04:18,291 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-28 15:04:18,786 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-03-28 16:21:45,533 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-28 16:25:10,958 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-28 17:04:45,441 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-28 18:38:18,156 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-28 18:39:24,646 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-29 05:05:42,573 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-29 05:23:39,368 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [609])
+2023-03-29 05:23:39,384 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-03-29 05:23:39,384 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2023-03-29 05:23:39,384 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2023-03-29 05:23:39,385 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2023-03-29 05:23:39,385 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2023-03-29 05:23:39,385 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2023-03-29 05:23:39,385 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2023-03-29 05:23:39,385 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2023-03-29 05:23:39,385 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2023-03-29 05:23:39,385 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2023-03-29 05:23:39,386 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2023-03-29 05:23:39,386 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2023-03-29 05:23:39,386 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2023-03-29 05:23:39,386 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2023-03-29 05:23:39,386 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2023-03-29 05:23:39,386 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-03-29 05:23:39,387 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2023-03-29 05:23:39,387 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2023-03-29 05:23:39,387 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2023-03-29 05:23:39,387 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-03-29 05:23:39,387 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2023-03-29 05:23:39,388 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2023-03-29 05:23:39,388 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2023-03-29 05:23:39,388 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2023-03-29 05:23:39,388 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2023-03-29 05:23:39,388 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2023-03-29 05:23:39,388 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-03-29 05:23:39,389 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-03-29 05:23:39,389 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2023-03-29 05:23:39,389 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2023-03-29 05:23:39,389 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2023-03-29 05:23:39,389 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2023-03-29 05:23:39,390 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2023-03-29 05:23:39,390 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2023-03-29 05:23:39,390 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2023-03-29 05:23:39,390 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2023-03-29 05:23:39,391 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2023-03-29 05:23:39,393 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [11])
+2023-03-29 05:23:39,394 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\com.google.guava_31.1.0.jre.jar
+2023-03-29 05:23:39,394 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [923])
+2023-03-29 05:23:39,395 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2023-03-29 05:23:39,395 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [35])
+2023-03-29 05:23:39,396 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-03-29 05:23:39,397 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [33])
+2023-03-29 05:23:39,398 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2023-03-29 05:23:39,398 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [67])
+2023-03-29 05:23:39,400 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-03-29 05:23:39,400 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [13])
+2023-03-29 05:23:39,402 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rlisa\.p2\pool\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-03-29 05:23:39,423 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\rlisa\eclipse-workspace\Selenium_Automation_B34":
+2023-03-29 05:23:39,428 [Worker-39: Launching Executing clean in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2023-03-29 05:25:03,587 [Worker-41: Launching Executing install in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\rlisa\eclipse-workspace\Selenium_Automation_B34":
+2023-03-29 05:25:03,588 [Worker-41: Launching Executing install in C__Users_rlisa_eclipse-workspace_Selenium_Automation_B34] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-03-29 05:26:26,807 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-29 05:27:17,487 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-29 05:30:15,134 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-29 05:32:43,853 [Worker-32: Creating project "Selenium_Automation_B34"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: lichu.usa.firstproject:Selenium_Automation_B34:0.0.1-SNAPSHOT @ C:\Users\rlisa\eclipse-workspace\Selenium_Automation_B34\pom.xml.
+2023-03-29 05:32:44,244 [Worker-32: Creating project "Selenium_Automation_B34"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium_Automation_B34/src/main/java
+2023-03-29 05:32:44,246 [Worker-32: Creating project "Selenium_Automation_B34"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Selenium_Automation_B34/src/main/resources
+2023-03-29 05:32:44,247 [Worker-32: Creating project "Selenium_Automation_B34"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium_Automation_B34/src/test/java
+2023-03-29 05:32:44,247 [Worker-32: Creating project "Selenium_Automation_B34"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Selenium_Automation_B34/src/test/resources
+2023-03-29 05:32:45,247 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 05:32:45,260 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 05:32:45,264 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 05:32:45,266 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 06:54:50,306 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-29 06:56:21,962 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 06:56:21,965 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 06:56:21,968 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 06:56:21,969 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 06:57:57,281 [Worker-24: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 06:57:57,283 [Worker-24: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 06:57:57,285 [Worker-24: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 06:57:57,288 [Worker-24: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 06:58:26,632 [Worker-24: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 06:58:26,633 [Worker-24: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 06:58:26,634 [Worker-24: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 06:58:26,636 [Worker-24: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 06:59:47,075 [Worker-24: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 06:59:47,077 [Worker-24: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 06:59:47,078 [Worker-24: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 06:59:47,079 [Worker-24: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 07:00:53,273 [Worker-38: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 07:00:53,274 [Worker-38: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 07:00:53,275 [Worker-38: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 07:00:53,276 [Worker-38: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 07:01:17,969 [Worker-41: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 07:01:17,970 [Worker-41: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 07:01:17,971 [Worker-41: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 07:01:17,972 [Worker-41: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 07:03:59,642 [Worker-41: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 07:03:59,643 [Worker-41: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 07:03:59,644 [Worker-41: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 07:03:59,646 [Worker-41: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 07:32:20,277 [Worker-47: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 07:32:20,278 [Worker-47: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 07:32:20,280 [Worker-47: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 07:32:20,281 [Worker-47: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 07:32:48,863 [Worker-50: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 07:32:48,864 [Worker-50: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 07:32:48,865 [Worker-50: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 07:32:48,866 [Worker-50: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 07:33:08,173 [Worker-50: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 07:33:08,177 [Worker-50: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 07:33:08,179 [Worker-50: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 07:33:08,180 [Worker-50: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 07:37:51,733 [Worker-51: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 07:37:51,736 [Worker-51: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 07:37:51,738 [Worker-51: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 07:37:51,740 [Worker-51: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 07:40:22,363 [Worker-52: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 07:40:22,365 [Worker-52: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 07:40:22,368 [Worker-52: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 07:40:22,371 [Worker-52: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 07:40:54,020 [Worker-56: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 07:40:54,022 [Worker-56: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 07:40:54,024 [Worker-56: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 07:40:54,026 [Worker-56: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 07:42:20,011 [Worker-58: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 07:42:20,013 [Worker-58: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 07:42:20,015 [Worker-58: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 07:42:20,017 [Worker-58: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 07:55:07,036 [Worker-52: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 07:55:07,039 [Worker-52: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 07:55:07,042 [Worker-52: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 07:55:07,043 [Worker-52: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 07:56:56,780 [Worker-61: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 07:56:56,782 [Worker-61: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 07:56:56,785 [Worker-61: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 07:56:56,788 [Worker-61: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 08:04:20,646 [Worker-52: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 08:04:20,658 [Worker-52: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 08:04:20,661 [Worker-52: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 08:04:20,663 [Worker-52: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 08:21:11,299 [Worker-66: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 08:21:11,312 [Worker-66: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 08:21:11,316 [Worker-66: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 08:21:11,319 [Worker-66: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 08:21:22,800 [Worker-66: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 08:21:22,803 [Worker-66: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 08:21:22,806 [Worker-66: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 08:21:22,808 [Worker-66: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 08:22:14,726 [Worker-66: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 08:22:14,728 [Worker-66: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 08:22:14,736 [Worker-66: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 08:22:14,740 [Worker-66: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 08:24:26,696 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 08:24:26,697 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 08:24:26,699 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 08:24:26,701 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 08:24:42,222 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 08:24:42,224 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 08:24:42,227 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 08:24:42,230 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 08:26:11,513 [Worker-73: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 08:26:11,515 [Worker-73: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 08:26:11,517 [Worker-73: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 08:26:11,521 [Worker-73: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 08:27:03,614 [Worker-71: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 08:27:03,616 [Worker-71: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 08:27:03,618 [Worker-71: Launching Java_Practice] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 08:27:03,621 [Worker-71: Launching Java_Practice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 08:36:44,939 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 08:36:44,940 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 08:36:44,942 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 08:36:44,944 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:28:26,072 [Worker-78: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:28:26,074 [Worker-78: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:28:26,076 [Worker-78: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:28:26,079 [Worker-78: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:30:08,220 [Worker-81: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:30:08,223 [Worker-81: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:30:08,225 [Worker-81: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:30:08,227 [Worker-81: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:30:26,119 [Worker-84: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:30:26,121 [Worker-84: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:30:26,123 [Worker-84: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:30:26,125 [Worker-84: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:31:12,011 [Worker-77: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:31:12,014 [Worker-77: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:31:12,020 [Worker-77: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:31:12,022 [Worker-77: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:31:41,373 [Worker-80: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:31:41,375 [Worker-80: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:31:41,376 [Worker-80: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:31:41,377 [Worker-80: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:32:08,644 [Worker-84: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:32:08,648 [Worker-84: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:32:08,651 [Worker-84: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:32:08,653 [Worker-84: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:32:45,974 [Worker-85: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:32:45,976 [Worker-85: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:32:45,980 [Worker-85: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:32:45,983 [Worker-85: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:33:32,057 [Worker-85: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:33:32,060 [Worker-85: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:33:32,062 [Worker-85: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:33:32,063 [Worker-85: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:35:32,721 [Worker-86: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:35:32,723 [Worker-86: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:35:32,733 [Worker-86: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:35:32,735 [Worker-86: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:35:54,185 [Worker-80: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:35:54,186 [Worker-80: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:35:54,188 [Worker-80: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:35:54,189 [Worker-80: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:42:20,294 [Worker-89: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:42:20,296 [Worker-89: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:42:20,298 [Worker-89: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:42:20,300 [Worker-89: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:42:39,437 [Worker-87: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:42:39,439 [Worker-87: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:42:39,442 [Worker-87: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:42:39,444 [Worker-87: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:43:02,302 [Worker-87: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:43:02,304 [Worker-87: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:43:02,306 [Worker-87: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:43:02,307 [Worker-87: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:43:09,665 [Worker-89: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:43:09,668 [Worker-89: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:43:09,670 [Worker-89: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:43:09,672 [Worker-89: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:43:32,014 [Worker-87: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:43:32,017 [Worker-87: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:43:32,019 [Worker-87: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:43:32,021 [Worker-87: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:43:43,580 [Worker-87: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:43:43,582 [Worker-87: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:43:43,586 [Worker-87: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:43:43,587 [Worker-87: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:43:51,965 [Worker-91: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:43:51,968 [Worker-91: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:43:51,970 [Worker-91: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:43:51,972 [Worker-91: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:45:02,505 [Worker-78: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:45:02,507 [Worker-78: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:45:02,508 [Worker-78: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:45:02,510 [Worker-78: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:46:36,635 [Worker-78: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:46:36,637 [Worker-78: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:46:36,639 [Worker-78: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:46:36,641 [Worker-78: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:46:47,069 [Worker-87: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:46:47,070 [Worker-87: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:46:47,083 [Worker-87: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:46:47,085 [Worker-87: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:52:14,053 [Worker-91: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:52:14,058 [Worker-91: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:52:14,061 [Worker-91: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:52:14,065 [Worker-91: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:52:24,469 [Worker-91: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:52:24,471 [Worker-91: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 09:52:24,474 [Worker-91: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 09:52:24,476 [Worker-91: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 10:00:58,636 [Worker-98: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 10:00:58,638 [Worker-98: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 10:00:58,640 [Worker-98: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 10:00:58,641 [Worker-98: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 10:01:13,036 [Worker-98: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 10:01:13,038 [Worker-98: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 10:01:13,041 [Worker-98: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 10:01:13,043 [Worker-98: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 10:02:41,916 [Worker-100: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 10:02:41,935 [Worker-100: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 10:02:41,939 [Worker-100: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 10:02:41,940 [Worker-100: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 10:09:17,581 [Worker-103: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 10:09:17,583 [Worker-103: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 10:09:17,586 [Worker-103: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 10:09:17,588 [Worker-103: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 10:09:30,559 [Worker-103: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 10:09:30,572 [Worker-103: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 10:09:30,576 [Worker-103: Launching Zakat_Calc] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 10:09:30,579 [Worker-103: Launching Zakat_Calc] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-01 17:16:05,321 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

@@ -1,0 +1,16 @@
+package lichu.usa.javapractice;
+
+public class Java_Practice {
+
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int num = 50;
+int ab = 40;
+int total = num + ab;
+
+		System.out.println(total);
+	}
+
+}

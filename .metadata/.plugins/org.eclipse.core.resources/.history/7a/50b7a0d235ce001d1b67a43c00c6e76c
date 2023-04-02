@@ -1,0 +1,31 @@
+package lichu.usa.javapractice;
+
+public class Zakat_Calc {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		double income = 18.2;     //salary in millions
+		int spon = 16;			  //endorsements 
+		int bonus = 25;           // bonuses
+		float asset = 91.568;	  //cash at home + bank accounts + assets
+		float gold = 1.6578;      //gold 
+		float silver = 0.567;     //silver 
+		float total = income+spon+bonus+asset+gold+silver; //total assets
+		double liability = 20.58                           //liabilities 
+		float z = 0.025; 
+		
+		double z2 = total-liability; 					   //total zakatable income 
+		int zakat = z2*z; 								   //total zakat due 
+		
+		String TotalAsset = "Mo Salah's total assets = "; 
+		String Liab = "His total liabilities = "; 
+		String Zakat = "Mo Salah's Zakat for 2023 = "; 
+		
+		System.out.println(TotalAsset);
+		
+		
+		
+	}
+
+}

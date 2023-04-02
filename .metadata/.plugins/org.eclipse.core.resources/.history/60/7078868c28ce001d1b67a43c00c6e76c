@@ -1,0 +1,14 @@
+package lichu.usa.javapractice;
+
+public class Java_Practice {
+
+	
+	char c;
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+
+		System.out.println(c);
+	}
+
+}

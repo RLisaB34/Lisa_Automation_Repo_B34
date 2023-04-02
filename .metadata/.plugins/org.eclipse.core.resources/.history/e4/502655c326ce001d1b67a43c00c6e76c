@@ -1,0 +1,12 @@
+package lichu.usa.javapractice;
+
+public class Java_Practice {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//char default value
+	int num = 600;
+		System.out.println(num);
+	}
+
+}

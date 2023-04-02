@@ -1,0 +1,38 @@
+package lichu.usa.javapractice;
+
+public class Java_Practice {
+
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		/*int Rana = 49;
+int Lisa = 43;
+int Nameer = 10;
+int NZ = 8;
+int total = Rana + Lisa + Nameer + NZ;
+
+		System.out.println(total);*/
+		
+		int gapstore = 5000;
+		int dillardsstore = 4000;
+		double walmart = 1500.60;
+		char sign3 = '$';
+		double totalincome = gapstore + dillardsstore + walmart;
+		String name4 = "kim's total monthly income ";
+		String name5 = " and ";
+		int mortgage = 3050;
+		int car = 1400;
+		int medical = 500;
+		double food  = 2500.50;
+		double extra = 1050.35;
+		char sign4 = '$';
+		double totalexpenses = mortgage + car + medical + food + extra;
+		String name6 = " total expenses ";
+
+		System.out.println(name4 + sign3 + totalincome + name5+ name6 + sign4 +  totalexpenses );
+	}
+
+}
